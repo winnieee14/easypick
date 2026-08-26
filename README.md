@@ -11,7 +11,6 @@ The design of the EasyPick project can be viewed here:
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -24,52 +23,7 @@ The design of the EasyPick project can be viewed here:
 - **Notifications:** Receive confirmations and reminders for your reservations.
 - **Reviews and Ratings:** Check restaurant reviews and ratings before making a reservation.
 
-## Installation
 
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/en/) (version 14 or higher)
-- [npm](https://www.npmjs.com/get-npm) or [yarn](https://yarnpkg.com/getting-started/install)
-
-### Installation Steps
-
-1. Clone the repo
-
-   ```sh
-   git clone https://github.com/santanamnaa/easypick.git
-   ```
-
-2. Navigate to the project directory
-
-   ```sh
-   cd easypick
-   ```
-
-3. Install NPM packages
-
-   ```sh
-   npm install
-   ```
-
-   or with yarn
-
-   ```sh
-   yarn install
-   ```
-
-4. Start the development server
-
-   ```sh
-   npm start
-   ```
-
-   or with yarn
-
-   ```sh
-   yarn start
-   ```
 
 ## Usage
 
