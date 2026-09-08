@@ -12,8 +12,7 @@ The design of the EasyPick project can be viewed here:
 
 - [Features](#features)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -35,16 +34,5 @@ Once the server is running, you can access the application in your web browser a
 4. **Manage Reservations:** View, modify, or cancel your existing reservations.
 5. **Notifications:** Check your email or app notifications for reservation confirmations and reminders.
 
-## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
